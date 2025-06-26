@@ -4,6 +4,8 @@
 
 **AI Can't Sing** is an interactive AI-powered music visualization system that generates real-time artwork based on your voice input. The system listens to your speech through a microphone, transcribes it using OpenAI's Whisper API, and creates unique digital artwork using either OpenAI's DALL-E 3 or a local Stable Diffusion model.
 
+Local models drawn from the AI & Storytelling course, which can be found here: [aist.cortu01.com](https://aist.cortu01.com).
+
 ### Key Features
 - **Real-time voice transcription** using OpenAI Whisper
 - **Dual image generation**: Choose between OpenAI DALL-E 3 or local Stable Diffusion
