@@ -42,7 +42,7 @@ Artists: [Pavlos Andreadis](https://www.linkedin.com/in/pandreadis/) and [Paolo 
 
 1. **Clone or download the project**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/cortu01/AICantSing/
    cd AICantSing
    ```
 
