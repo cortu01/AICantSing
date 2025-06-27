@@ -6,6 +6,19 @@
 
 Local models drawn from the AI & Storytelling course, which can be found here: [aist.cortu01.com](https://aist.cortu01.com).
 
+As first publicly demonstrated at [AI Can't Write Symphonies](https://www.scottishai.com/ai-cant-write-symphonies), as part of the "**I Can't Sing. You Can't Draw.**" installation.
+
+_I Can't Sing. You Can't Draw. (installation)
+The very first karaoke sing-along misheard-lyrics AI painter in the world!
+
+The plethora of AI tool availability outlines future creative spaces; where every person can create experiences through the combined use of AI tools, and augment their creative output.
+
+Working within the creative space framed by the AI & Storytelling library, we present “I Can’t Sing. You Can’t Draw.” A tool for visualising what you sing, as you sing it. Packaged in a Jupyter Notebook, easily run through a browser, and with no need for programming skills, the tool presents a starting place for people to see the workings of an AI system. And a starting place for their own creative machinations, as the tool is easy to take home and continue working with, or just ready to run for your next karaoke party.
+
+Members of the audience are invited to sing along into the microphone and watch as AI scrambles to understand what we are singing, and turn it into images in real time! And there is no need to know the original lyrics, creativity and improvisation when singing will work just as well.
+
+Artists: Pavlos Andreadis and Paolo Pareti_
+
 ### Key Features
 - **Real-time voice transcription** using OpenAI Whisper
 - **Dual image generation**: Choose between OpenAI DALL-E 3 or local Stable Diffusion
