@@ -18,7 +18,7 @@ Working within the creative space framed by the AI & Storytelling library, we pr
 
 Members of the audience are invited to sing along into the microphone and watch as AI scrambles to understand what we are singing, and turn it into images in real time! And there is no need to know the original lyrics, creativity and improvisation when singing will work just as well.
 
-Artists: Pavlos Andreadis and Paolo Pareti
+Artists: [Pavlos Andreadis](https://www.linkedin.com/in/pandreadis/) and [Paolo Pareti](https://paolopareti.uk/html/homepage/)
 - - - - - - - - - - - - - - - - - - - - - -
 
 ### Key Features
